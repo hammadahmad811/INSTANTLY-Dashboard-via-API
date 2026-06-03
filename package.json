@@ -1,0 +1,16 @@
+{
+  "name": "instantly-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Instantly.ai analytics dashboard — zero-dependency Node.js server with React frontend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["instantly", "analytics", "dashboard", "email"],
+  "author": "Hammad Ahmad",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+# ── Secrets — NEVER commit these ─────────────────────────────────────
+accounts.json
+selected-account.json
+.env
+
+# ── Runtime / debug files ─────────────────────────────────────────────
+debug.log
+nohup.out
+*.log
+
+# ── OS junk ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor folders ────────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Node (in case node_modules ever appears) ──────────────────────────
+node_modules/
+npm-debug.log*
+
+# ── Temp / build ──────────────────────────────────────────────────────
+*.tmp
+*.bak
